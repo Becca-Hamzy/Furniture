@@ -487,11 +487,11 @@
         
         .hero-content{
             position: absolute;
-            width: 100%;
-            left: 0px;
+            width: 50%;
+            left: 250px;
         }
         .one-btn{
-            margin-left: 330px;
+            margin-left: 100px;
         }       
         .hero-content p{
             text-align: center;
@@ -500,9 +500,10 @@
             margin-top: 50px;
         }
         .siblings{
-            padding-left: 0px;
+            padding-left: 20px;
             width: 100vw;
-            /* padding-right: 80px; */
+            padding-right: 80px;
+            
 
 
         }
@@ -528,7 +529,7 @@
             font-size: 15px;
         }
         .father{
-            margin-top: 20px;
+            margin-bottom: 5px;
         }
         .upper{
             display: flex;
@@ -560,8 +561,12 @@
             display: flex;
             flex-direction: column;
             background-color: white;
-            margin-top: 0px;
+            margin-top: 40px;
             gap: 0px;
+            margin-left: 200px;
+            /* padding-bottom: 50px; */
+            /* border: 1px solid black; */
+            /* height: 1000px; */
         }
         .content{
             padding-top: 50px;
@@ -574,19 +579,20 @@
             font-size: 18px;
         }
         .bed-room img{
-            width: 80%;
+            width: 50%;
+            margin-right: 100px;
             /* border: 1px solid; */
 
         }
         .study img{
-            width: 80%;
+            width: 50%;
             margin-bottom: 0px;
         }
         .last-container{
             display: none;
         }
         .last-box{
-            margin-top: 1600px;
+            margin-top: 1000px;
         }
        
         
